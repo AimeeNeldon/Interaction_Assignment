@@ -1,0 +1,32 @@
+﻿Build started 10/9/2011 11:03:52 PM.
+     1>Project "c:\Users\Aimee\documents\visual studio 2010\Projects\assign_3\assign_3\assign_3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\assign_3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp player.cpp
+         player.cpp
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(11): warning C4101: 'visible' : unreferenced local variable
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(7): warning C4101: 'y' : unreferenced local variable
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(6): warning C4101: 'x' : unreferenced local variable
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(9): warning C4101: 'speedx' : unreferenced local variable
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(10): warning C4101: 'speedy' : unreferenced local variable
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(8): warning C4101: 'shape' : unreferenced local variable
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(26): warning C4832: token '.' is illegal after UDT 'player'
+                 c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.h(2) : see declaration of 'player'
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(26): error C2275: 'player' : illegal use of this type as an expression
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(26): error C2228: left of '.shape' must have class/struct/union
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(26): warning C4832: token '.' is illegal after UDT 'player'
+                 c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.h(2) : see declaration of 'player'
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(26): error C2275: 'player' : illegal use of this type as an expression
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(26): error C2228: left of '.x' must have class/struct/union
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(26): warning C4832: token '.' is illegal after UDT 'player'
+                 c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.h(2) : see declaration of 'player'
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(26): error C2275: 'player' : illegal use of this type as an expression
+     1>c:\users\aimee\documents\visual studio 2010\projects\assign_3\assign_3\player.cpp(26): error C2228: left of '.y' must have class/struct/union
+         main.cpp
+         Generating Code...
+     1>Done Building Project "c:\Users\Aimee\documents\visual studio 2010\Projects\assign_3\assign_3\assign_3.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.06
